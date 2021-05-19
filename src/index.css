@@ -1,0 +1,79 @@
+*
+{
+  font-family: 'Zilla Slab', serif;
+  margin:0%;
+}
+.btn
+{
+ text-decoration: none;
+}
+.form
+{
+  padding-top: 2%;
+  display:grid;
+  align-items: center;
+  justify-content: center;
+
+}
+.img
+{
+  padding-top: 2%;
+  display:grid;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+.header
+{
+  text-align: center;
+  background-color:cornflowerblue;
+  padding:2%;
+  
+}
+.panda
+{
+  display:grid;
+  align-items: center;
+  
+  width:100%;
+  margin-bottom: 25%;
+}
+.distance
+{
+  display:grid;
+  align-items: center;
+  margin-bottom: 20%;
+  width:100%;
+}
+.sanetizer
+{
+  display:grid;
+  align-items: center;
+  width:100%;
+  margin-bottom: 25%;
+}
+
+#one
+{
+  color:blueviolet
+}
+#two
+{
+  color:black;
+}
+.footer 
+{
+  margin-top: 20%;
+  text-align: center;
+  color:darkcyan;
+  background-color: antiquewhite;
+}
+
+  
+
+.text{
+  text-align: center;
+}
+.text > h2{
+  color: blueviolet;
+}
